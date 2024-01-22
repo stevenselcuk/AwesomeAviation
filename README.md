@@ -1,5 +1,4 @@
 # AwesomeAviation
-Civil Aviation Codex
 
 # 00 - Index
 
